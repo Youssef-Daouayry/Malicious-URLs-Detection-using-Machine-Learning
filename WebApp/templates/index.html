@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL Malware Detection</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <h1>Is this link safe?</h1>
+            <h3>Enter a URL to check if it's safe or not.</h3>
+            <form id="url-form" action="/predict" method="post">
+                <input id="url-input" type="text" name="url" placeholder="Enter your URL here">
+                <div id="url-error" class="error-msg">Please input a URL to check *</div>
+                <input id="check-button" type="submit" value="Check">
+            </form>
+            <div id="result"></div>
+        </div>
+    </div>
+    <script src="../static/script.js"></script>
+</body>
+</html>
