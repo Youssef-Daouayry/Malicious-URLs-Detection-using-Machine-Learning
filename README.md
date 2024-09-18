@@ -35,7 +35,7 @@
 
 
 <h2 id="architecture">Architecture</h2>
-  <img src="architecture.png" alt="Project Architecture">
+  <img src="images/architecture.png" alt="Project Architecture">
   
 <h2 id="installation">Installation</h2>
 Follow these steps to set up the project environment and install the required dependencies:
