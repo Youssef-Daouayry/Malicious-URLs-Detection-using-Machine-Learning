@@ -41,24 +41,29 @@
 Follow these steps to set up the project environment and install the required dependencies:
 
 1. **Clone the Repository**
+   
    ```bash
    git clone https://github.com/Youssef-Daouayry/Malicious-URLs-Detection-using-Machine-Learning
    ```
-2. **Navigate to the project directory**
+3. **Navigate to the project directory**
+   
    ```bash
    cd Malicious-URLs-Detection-using-Machine-Learning
    ```
-3. **Install Dependencies**
+5. **Install Dependencies**
+   
    ```bash
    pip install -r requirements.txt
    ```
 
 <h2 id="usage">Usage</h2>
 
-You can now run the Flask application. Use the following command to start the web server:
+You can now run the Flask application. Use the following command to start the web server:\
+
   ```bash
   python webapp/app.py
   ```
+
 Open your web browser and navigate to ```http://localhost:5000``` to use the application.
 
 <img src="images/UI.jpg" alt="UI">
