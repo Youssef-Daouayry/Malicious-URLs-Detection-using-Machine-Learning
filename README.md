@@ -36,14 +36,24 @@
 
 <h2 id="architecture">Architecture</h2>
   <img src="architecture.png" alt="Project Architecture">
+  
+<h2 id="installation">Installation</h2>
+Follow these steps to set up the project environment and install the required dependencies:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Youssef-Daouayry/Malicious-URLs-Detection-using-Machine-Learning
+   ```
+2. **Navigate to the project directory**
+   ```bash
+   cd Malicious-URLs-Detection-using-Machine-Learning
+   ```
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 <h2 id="usage">Usage</h2>
-  
- <h2 id="installation">Installation</h2>
-    <p>Step-by-step guide to installing the project...</p>
-    
-
-  <p>How to use the project, including command-line instructions and examples...</p>
 
 
 
