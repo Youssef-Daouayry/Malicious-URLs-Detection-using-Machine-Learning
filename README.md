@@ -12,7 +12,7 @@
 This project focuses on developing a machine learning-based system for detecting malicious URLs, which are often used in phishing, malware distribution, and other cyberattacks. The goal is to create a tool capable of classifying URLs as either benign or malicious based on patterns identified through training models.
 
 <h2 id="architecture">Architecture</h2>
-  <img src="architecture.png" alt="Project Architecture" width="600">
+  <img src="architecture.png" alt="Project Architecture">
 
 <h2 id="usage">Usage</h2>
   
