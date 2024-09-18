@@ -11,6 +11,7 @@
  <h2 id="overview">Overview</h2>
 This project focuses on developing a machine learning-based system for detecting malicious URLs, which are often used in phishing, malware distribution, and other cyberattacks. The goal is to create a tool capable of classifying URLs as either benign or malicious based on patterns identified through training models.
 
+```plaintext
 
 ├── webapp/
 │   ├── app.py                      # Flask application
@@ -26,7 +27,7 @@ This project focuses on developing a machine learning-based system for detecting
 ├── model.pkl                       # Pre-trained machine learning model
 ├── Malicious_URLs_Detection.ipynb  # Jupyter Notebook for model training
 ├── README.md                       # Project documentation
-
+```
 
 <h2 id="architecture">Architecture</h2>
   <img src="architecture.png" alt="Project Architecture">
