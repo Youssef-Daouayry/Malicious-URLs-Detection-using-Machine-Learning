@@ -59,7 +59,7 @@ You can now run the Flask application. Use the following command to start the we
   ```bash
   python webapp/app.py
   ```
-Open your web browser and navigate to http://localhost:5000 to use the application.
+Open your web browser and navigate to ```http://localhost:5000``` to use the application.
 
 
 
