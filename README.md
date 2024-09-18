@@ -2,7 +2,7 @@
 
 <h2>Table of Contents</h2>
   <ul>
-    <li><a href="#overview">Overview</a></li>Directory Structure
+    <li><a href="#overview">Overview</a></li>
     <li><a href="#directory-structure">Directory Structure</a></li>
     <li><a href="#architecture">Architecture</a></li>
     <li><a href="#installation">Installation</a></li>
