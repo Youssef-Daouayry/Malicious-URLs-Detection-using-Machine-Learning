@@ -30,6 +30,7 @@
 ├── Dataset.csv                     # Dataset used for model training
 ├── model.pkl                       # Pre-trained machine learning model
 ├── Malicious_URLs_Detection.ipynb  # Jupyter Notebook for model training
+├── requirements.txt                
 └── README.md                       # Project documentation
 ```
 
